@@ -1,6 +1,6 @@
 # Linux System Monitor
 
-A lightweight Python CLI utility to monitor and report key Linux system metrics like uptime, CPU load, memory usage, disk space, and user sessions.
+A Python CLI tool for Linux that reports system uptime, CPU/memory/disk usage, active users, and top processes. Automatically flags high resource usage and saves audit-friendly reports.
 
 ## Features
 - Uptime and system load info
